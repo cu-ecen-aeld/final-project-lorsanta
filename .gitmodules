@@ -1,0 +1,7 @@
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = https://git.yoctoproject.org/meta-raspberrypi.git
+[submodule "poky"]
+	path = poky
+	url = https://git.yoctoproject.org/poky.git
+	branch = kirkstone
